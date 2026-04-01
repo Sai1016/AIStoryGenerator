@@ -4,6 +4,7 @@ An AI-powered interactive storytelling application that creates personalized sto
 
 ## Features
 
+
 - **Genre Selection**: Choose from Fantasy, Sci-Fi, Mystery, Romance, Horror, and Comedy
 - **Dynamic Storytelling**: AI generates coherent, engaging story segments that maintain character consistency and plot continuity
 - **Branching Paths**: Get multiple story continuation options at key decision points
