@@ -1,0 +1,5 @@
+#python libraries required for the project
+streamlit #for the UI
+python-dotenv #to load environment variables from .env file
+openai #to interact with OpenAI's API
+ 
